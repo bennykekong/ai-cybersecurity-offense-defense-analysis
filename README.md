@@ -152,18 +152,24 @@ The analysis demonstrated that major AI platforms apply safeguards against direc
 The project also highlighted the value of combining AI-assisted analysis with established cybersecurity tools and human security judgment.
 
 ---
-
 ## 📸 Project Screenshots
 
-Supporting AI cybersecurity evaluation screenshots will be added to this section.
+### 1. Assessment Result — 30/30
+![AI Cybersecurity Assessment Result](screenshots/01-ai-cybersecurity-assessment-result-30-of-30.png)
 
 ---
 
 ## 📄 Project Evidence
 
-The completed AI for Cyber Offense & Defense submission will be included in this repository as supporting evidence.
+The completed AI for Cyber Offense & Defense analysis submission is included in this repository as supporting evidence.
+
+[📄 View AI Cybersecurity Analysis Submission](AI%20for%20cyber%20offense%20defence%20%20Analysis%20Submission.doc)
+
+The project evidence compares ChatGPT, Google Gemini and Microsoft Copilot across offensive-security safeguards and defensive-security analysis, including phishing, keylogger and SQL-injection prompts, Windows Firewall log analysis and suspicious-code assessment.
 
 **Assessment result:** 30/30
+
+[🏆 View Assessment Result](screenshots/01-ai-cybersecurity-assessment-result-30-of-30.png)
 
 ---
 
